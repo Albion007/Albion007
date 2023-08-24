@@ -3,6 +3,7 @@
 - Bio: 🚀 Full-stack Developer | 🎓 Bachelor's in Computer Science | 🎓 Master's in Social Media & Web Technologies | 💡 Passionate about building innovative web solutions
 - 🥅 2023 Goals: Hmm... thinking.!
 
+ <h4 align="center">“Talk is cheap. Show me the code.”</h4>
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -52,5 +53,7 @@
 <br />
 <br />
 
-### How to reach me: 
-<img align="left" alt="linkedin" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />https://www.linkedin.com/in/albion-morina-aa3911212/
+<p align="center">
+<a href="[https://www.linkedin.com/in/ohidurbappy/](https://www.linkedin.com/in/albion-morina-aa3911212/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="[https://www.facebook.com/ohidurbappy/](https://www.facebook.com/AlbionMorina44)"><img  alt="Albion Morina's Facebook"  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
