@@ -1,7 +1,7 @@
 ### Hi there, I'm Albion Morina - <img alit="Hello" width="30px" src="https://raw.githubusercontent.com/sjabiulla/sjabiulla/main/wave.gif" />
 
 
-## I'm a Software Developer, IT Support and Nature lover!
+## I'm a Software Developer, IT Support and Nature Lover!
 
 - 👯 I'm always eager to learn and share my learning with anyone.
 
@@ -33,11 +33,8 @@
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logoColor=white&color=2bbc8a)
 
 ---
-### :zap: GitHub Stats
-<img align="left" alt="Jabiulla GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sjabiulla&show_icons=true&hide_border=true" />
-
 
 [website]: https://i-am-jabi.medium.com/
+[facebook]
 [instagram]: https://www.instagram.com/i_am_jabi/
-[linkedin]: https://www.linkedin.com/in/jabiulla-shaik/
-[stackoverflow]: https://stackoverflow.com/users/2024360/i-am-jabi/
+[linkedin]: https://www.linkedin.com/in/albion-morina-aa3911212/
