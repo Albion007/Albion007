@@ -41,7 +41,6 @@
 <img align="left" alt="phpstorm" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/phpstorm/phpstorm-original.svg" style="padding-right:10px;" />
 <img align="left" alt="python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="pycharm" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
-<img align="left" alt="redux" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redux/redux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="slack" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/slack/slack-original.svg" style="padding-right:10px;" />
 <img align="left" alt="tailwind" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="trello" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/trello/trello-plain-wordmark.svg" style="padding-right:10px;" />
