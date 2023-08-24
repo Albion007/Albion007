@@ -1,8 +1,8 @@
 ## I'm a Software Developer, IT Support and Nature Lover!
 
 - Bio: 🚀 Full-stack Developer | 🎓 Bachelor's in Computer Science | 🎓 Master's in Social Media & Web Technologies |
-- 💡 Passionate about building innovative web solutions
-- 🥅 2023 Goals: Hmm... thinking.!
+- 💡 Passionate about building innovative web solutions:D
+- 🥅 2023 Goals: Hmm... thinking!
 
  <h4 align="center">“Talk is cheap. Show me the code.”</h4>
  <h6 align="center"> ~ Linus Torvalds</h6>
