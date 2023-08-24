@@ -12,5 +12,21 @@ JavaScript HTML5 React CSS3 Redux Bootstrap TailwindCSS NodeJS Express MongoDB F
 
 ### Socials
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+Hi there, I'm Albion 👋
+YouTube Channel Subscribers Website Twitter Follow
+
+Visual Studio Marketplace Rating (Stars) Become A VS Code SuperHero
+
+I'm a Developer!!
+🌱 I’m currently learning everything 🤣
+👯 I’m looking to collaborate with other developers
+🥅 2023 Goals: Learn more about web3
+⚡ Fun fact: I love to play football and coding as well
+Connect with me:
+linkedin.com/in/albion-morina-aa3911212  https://www.facebook.com/AlbionMorina44/ website    website    website    website
+
+Languages and Tools:
+Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoMongoDBMySQLGitGitHubTerminal
+
+
  
