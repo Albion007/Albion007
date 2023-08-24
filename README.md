@@ -9,6 +9,7 @@
 
 ### Languages and Tools:
 #512BD4
+
 ---
 
 ### How to reach me: https://www.linkedin.com/in/albion-morina-aa3911212/
