@@ -50,8 +50,9 @@
 <img align="left" alt="typescript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Wordpress" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/wordpress/wordpress-original.svg" style="padding-right:10px;" />
 
-<br />
-<br />
+<br>
+<br>
+<br>
 
 <p align="center">
 <a href="[https://www.linkedin.com/in/ohidurbappy/](https://www.linkedin.com/in/albion-morina-aa3911212/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
