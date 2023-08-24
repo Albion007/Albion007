@@ -4,9 +4,6 @@
 - 💡 Passionate about building innovative web solutions:D
 - 🥅 2023 Goals: Hmm... thinking!!!
 
- <h4 align="center">“Talk is cheap. Show me the code.”</h4>
- <h6 align="center"> ~ Linus Torvalds</h6>
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="visual studio code" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg" style="padding-right:10px;" />
@@ -62,3 +59,6 @@
 <a href="https://www.facebook.com/AlbionMorina44"><img alt="Albion Morina's Facebook"  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="mailto:albionmorina44@gmail.com?subject=Hi, there"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
+
+ <h4 align="center">“Talk is cheap. Show me the code.”</h4>
+ <h6 align="center"> ~ Linus Torvalds</h6>
