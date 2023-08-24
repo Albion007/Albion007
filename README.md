@@ -9,7 +9,7 @@
 <img align="left" alt="visual studio code" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="redux" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redux/redux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node" width="26px" src="[https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg](https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg)" style="padding-right:10px;" />
+<img align="left" alt="Node" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Android" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/android/android-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Android Studio" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Angular" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
