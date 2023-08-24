@@ -27,6 +27,8 @@
 <img align="left" alt="gitlab" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />
 <img align="left" alt="grafana" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
 <img align="left" alt="html5" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" style="padding-right:10px;" />
+
+
 <img align="left" alt="intellij" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
 <img align="left" alt="ionic" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ionic/ionic-original.svg" style="padding-right:10px;" />
 <img align="left" alt="java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" style="padding-right:10px;" />
