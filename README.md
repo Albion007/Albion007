@@ -4,6 +4,7 @@
 - 🥅 2023 Goals: Hmm... thinking.!
 
  <h4 align="center">“Talk is cheap. Show me the code.”</h4>
+ <h6 align="center"> ~ Linus Torvalds</h6>
 <br>
 
 ### Languages and Tools:
