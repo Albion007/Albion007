@@ -60,5 +60,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/albion-morina-aa3911212"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://www.facebook.com/AlbionMorina44"><img alt="Albion Morina's Facebook"  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="mailto:me+github_readme@albionmorina44@gmail.com?subject=Hi, there"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:albionmorina44@gmail.com?subject=Hi, there"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
