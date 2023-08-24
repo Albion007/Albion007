@@ -8,7 +8,7 @@
 
 
 ### Languages and Tools:
-![node-current (tag)](https://img.shields.io/node/v/:packageName/:tag)
-
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="NODE" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 
 ### How to reach me: https://www.linkedin.com/in/albion-morina-aa3911212/
