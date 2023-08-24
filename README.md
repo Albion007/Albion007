@@ -4,14 +4,10 @@
 ## I'm a Software Developer, IT Support and Nature Lover!
 
 - Bio: 🚀 Full-stack Developer | 🎓 Bachelor's in Computer Science | 🎓 Master's in Social Media & Web Technologies | 💡 Passionate about building innovative web solutions
-
+- 🥅 2023 Goals: Hmm... thinking.!
 <br />
 
 ### Languages and Tools:
-![image](https://github.com/Albion007/Albion007/assets/94832146/77411f46-0e76-4f82-a1c5-f8c8f7b35215)
+<img alt="node-current (tag)" src="https://img.shields.io/node/v/:packageName/:tag">
 
-
-
----
-
-https://www.linkedin.com/in/albion-morina-aa3911212/
+### How to reach me: https://www.linkedin.com/in/albion-morina-aa3911212/
