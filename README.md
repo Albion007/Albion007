@@ -27,8 +27,6 @@
 <img align="left" alt="gitlab" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />
 <img align="left" alt="grafana" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
 <img align="left" alt="html5" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" style="padding-right:10px;" />
-
-
 <img align="left" alt="intellij" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
 <img align="left" alt="ionic" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ionic/ionic-original.svg" style="padding-right:10px;" />
 <img align="left" alt="java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" style="padding-right:10px;" />
@@ -38,7 +36,6 @@
 <img align="left" alt="mysql" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="npm" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="numpy" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
-<img align="left" alt="oracle" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/oracle/oracle-original.svg" style="padding-right:10px;" />
 <img align="left" alt="pandas" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
 <img align="left" alt="photoshop" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="php" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" style="padding-right:10px;" />
