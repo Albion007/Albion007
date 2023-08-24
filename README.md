@@ -4,6 +4,7 @@
 - 🥅 2023 Goals: Hmm... thinking.!
 
  <h4 align="center">“Talk is cheap. Show me the code.”</h4>
+<br>
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -52,6 +53,8 @@
 
 <br>
 <br>
+<br>
+<br
 <br>
 
 <p align="center">
