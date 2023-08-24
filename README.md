@@ -6,6 +6,7 @@
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="visual studio code" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="redux" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redux/redux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node" width="26px" src="[https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg](https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg)" style="padding-right:10px;" />
@@ -28,7 +29,6 @@
 <img align="left" alt="gitlab" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />
 <img align="left" alt="grafana" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
 <img align="left" alt="html5" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<br />
 <img align="left" alt="intellij" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
 <img align="left" alt="ionic" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ionic/ionic-original.svg" style="padding-right:10px;" />
 <img align="left" alt="java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" style="padding-right:10px;" />
@@ -48,7 +48,10 @@
 <img align="left" alt="redux" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redux/redux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="slack" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/slack/slack-original.svg" style="padding-right:10px;" />
 <img align="left" alt="spss" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spss/spss-original.svg" style="padding-right:10px;" />
-
+<img align="left" alt="tailwind" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="trello" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/trello/trello-plain-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="typescript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Wordpress" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/wordpress/wordpress-original.svg" style="padding-right:10px;" />
 
 <br />
 ---
