@@ -19,6 +19,19 @@
 <img align="left" alt="Composer" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/composer/composer-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="dot-net" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dot-net/dot-net-original.svg" style="padding-right:10px;" />
+<img align="left" alt="dotnet-core" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;" />
+<img align="left" alt="eslint" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/eslint/eslint-original.svg" style="padding-right:10px;" />
+<img align="left" alt="figma" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" style="padding-right:10px;" />
+<img align="left" alt="flutter" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
+<img align="left" alt="github" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" style="padding-right:10px;" />
+<img align="left" alt="gitlab" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />
+<img align="left" alt="grafana" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
+<img align="left" alt="html5" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="intellij" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
+<img align="left" alt="ionic" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ionic/ionic-original.svg" style="padding-right:10px;" />
+<img align="left" alt="java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" style="padding-right:10px;" />
+<img align="left" alt="javascript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="jquery" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original.svg" style="padding-right:10px;" />
 
 ---
 
