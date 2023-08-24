@@ -8,7 +8,7 @@
 
 
 ### Languages and Tools:
-![Node.js Version](https://img.shields.io/badge/Node.js-v14.17.5-brightgreen)
+<img alt="node-current (tag)" src="https://img.shields.io/node/v/Code/Node">
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Spring_Boot-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logoColor=white&color=2bbc8a)
