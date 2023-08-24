@@ -5,9 +5,7 @@
 
  <h4 align="center">“Talk is cheap. Show me the code.”</h4>
  <h6 align="center"> ~ Linus Torvalds</h6>
-<br>
 
-### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="visual studio code" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg" style="padding-right:10px;" />
@@ -51,7 +49,6 @@
 <img align="left" alt="trello" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/trello/trello-plain-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="typescript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Wordpress" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/wordpress/wordpress-original.svg" style="padding-right:10px;" />
-
 <br>
 <br>
 <br>
