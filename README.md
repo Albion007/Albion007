@@ -5,13 +5,6 @@
 
 - 👯 I'm always eager to learn and share my learning with anyone.
 
-### Connect with me:
-
-[<img align="left" alt="Jabiulla | Medium" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Jabiulla | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Jabiulla | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Jabiulla | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][stackoverflow]
-
 <br />
 
 ### Languages and Tools:
@@ -34,7 +27,5 @@
 
 ---
 
-[website]: https://i-am-jabi.medium.com/
-[facebook]
-[instagram]: https://www.instagram.com/i_am_jabi/
-[linkedin]: https://www.linkedin.com/in/albion-morina-aa3911212/
+https://www.instagram.com/i_am_jabi/
+https://www.linkedin.com/in/albion-morina-aa3911212/
