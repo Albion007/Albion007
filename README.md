@@ -8,6 +8,6 @@
 
 
 ### Languages and Tools:
-<img alt="node-current (tag)" src="https://img.shields.io/node">
+https://img.shields.io/node/v/:packageName/:tag
 
 ### How to reach me: https://www.linkedin.com/in/albion-morina-aa3911212/
