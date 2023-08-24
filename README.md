@@ -10,11 +10,9 @@
 <img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="redux" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redux/redux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node" width="26px" src="[https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg](https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg)" style="padding-right:10px;" />
-<img align="left" alt="AfterEffects" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/aftereffects/aftereffects-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Android" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/android/android-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Android Studio" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Angular" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Ansible" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ansible/ansible-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Apache" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apache/apache-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Canva" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/canva/canva-original.svg" style="padding-right:10px;" />
@@ -47,7 +45,6 @@
 <img align="left" alt="pycharm" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
 <img align="left" alt="redux" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redux/redux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="slack" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/slack/slack-original.svg" style="padding-right:10px;" />
-<img align="left" alt="spss" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spss/spss-original.svg" style="padding-right:10px;" />
 <img align="left" alt="tailwind" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="trello" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/trello/trello-plain-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="typescript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
