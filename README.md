@@ -3,7 +3,7 @@
 
 ## I'm a Software Developer, IT Support and Nature Lover!
 
-- 👯 I'm always eager to learn and share my learning with anyone.
+- Bio: 🚀 Full-stack Developer | 🎓 Bachelor's in Computer Science | 🎓 Master's in Social Media & Web Technologies | 💡 Passionate about building innovative web solutions
 
 <br />
 
