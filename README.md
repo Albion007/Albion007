@@ -50,6 +50,7 @@
 <img align="left" alt="Wordpress" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/wordpress/wordpress-original.svg" style="padding-right:10px;" />
 
 <br />
----
+<br />
+
 ### How to reach me: 
 <img align="left" alt="linkedin" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />https://www.linkedin.com/in/albion-morina-aa3911212/
