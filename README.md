@@ -1,61 +1,43 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Social Media Analyzer</title>
-</head>
-<body>
-    <h1>Social Media Analyzer</h1>
-    <form method="POST" id="searchForm">
-        <label for="keyword">Enter a keyword or hashtag:</label>
-        <input type="text" id="keyword" name="keyword" required>
-        <button type="submit">Analyze</button>
-    </form>
+### Hi there, I'm Albion Morina - <img alit="Hello" width="30px" src="https://raw.githubusercontent.com/sjabiulla/sjabiulla/main/wave.gif" />
 
-    <div id="resultsContainer" style="display: none;">
-        <h2>Results for "<span id="keywordSpan"></span>"</h2>
-        <canvas id="hashtagChart"></canvas>
-    </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-            const searchForm = document.getElementById('searchForm');
-            const resultsContainer = document.getElementById('resultsContainer');
-            const keywordSpan = document.getElementById('keywordSpan');
+## I'm a Software Developer, IT Support and Nature lover!
 
-            searchForm.addEventListener('submit', async function (event) {
-                event.preventDefault();
+- 👯 I'm always eager to learn and share my learning with anyone.
 
-                const keyword = document.getElementById('keyword').value;
-                keywordSpan.textContent = keyword;
+### Connect with me:
 
-                const response = await fetch(`https://api.example.com/scrape?keyword=${encodeURIComponent(keyword)}`);
-                const data = await response.json();
+[<img align="left" alt="Jabiulla | Medium" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Jabiulla | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jabiulla | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Jabiulla | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][stackoverflow]
 
-                const ctx = document.getElementById('hashtagChart').getContext('2d');
-                const chart = new Chart(ctx, {
-                    type: 'bar',
-                    data: {
-                        labels: data.labels,
-                        datasets: [{
-                            label: 'Hashtag Counts',
-                            data: data.counts,
-                            backgroundColor: 'rgba(75, 192, 192, 0.6)',
-                            borderWidth: 1
-                        }]
-                    },
-                    options: {
-                        scales: {
-                            y: {
-                                beginAtZero: true
-                            }
-                        }
-                    }
-                });
+<br />
 
-                resultsContainer.style.display = 'block';
-            });
-        });
-    </script>
-</body>
-</html>
+### Languages and Tools:
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Spring_Boot-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Platform-Web-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Platform-Android-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Terminal-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logoColor=white&color=2bbc8a)
+
+---
+### :zap: GitHub Stats
+<img align="left" alt="Jabiulla GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sjabiulla&show_icons=true&hide_border=true" />
+
+
+[website]: https://i-am-jabi.medium.com/
+[instagram]: https://www.instagram.com/i_am_jabi/
+[linkedin]: https://www.linkedin.com/in/jabiulla-shaik/
+[stackoverflow]: https://stackoverflow.com/users/2024360/i-am-jabi/
