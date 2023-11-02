@@ -31,7 +31,6 @@
 <img align="left" alt="java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="javascript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="jquery" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original.svg" style="padding-right:10px;" />
-<img align="left" alt="matlab" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/matlab/matlab-original.svg" style="padding-right:10px;" />
 <img align="left" alt="mysql" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="npm" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="numpy" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
@@ -45,7 +44,6 @@
 <img align="left" alt="tailwind" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="trello" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/trello/trello-plain-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="typescript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Wordpress" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/wordpress/wordpress-original.svg" style="padding-right:10px;" />
 
 <br>
 <br>
