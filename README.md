@@ -9,9 +9,6 @@
 <img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="redux" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redux/redux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Android" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/android/android-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Android Studio" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Angular" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Apache" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apache/apache-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Canva" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/canva/canva-original.svg" style="padding-right:10px;" />
@@ -26,7 +23,6 @@
 <img align="left" alt="gitlab" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />
 <img align="left" alt="grafana" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
 <img align="left" alt="html5" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="intellij" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
 <img align="left" alt="ionic" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ionic/ionic-original.svg" style="padding-right:10px;" />
 <img align="left" alt="java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="javascript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
