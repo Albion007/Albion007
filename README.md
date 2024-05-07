@@ -1,6 +1,6 @@
 ## I'm a Software Developer, IT Support and Nature Lover!
 
-- 🎓 Bachelor's in Computer Science | 🎓 Master's in Social Media & Web Technologies |
+- 🎓 Bachelor's in Computer Science, Kosova | 🎓 Master's in Social Media & Web Technologies, Sweden |
 - 💡 Passionate about building innovative web solutions:D
 - 🥅 2023 Goals: Hmm... thinking!!!
 
