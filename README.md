@@ -2,7 +2,7 @@
 
 - 🎓 Bachelor's in Computer Science, Kosova | 🎓 Master's in Social Media & Web Technologies, Sweden |
 - 💡 Passionate about building innovative web solutions:D
-- 🥅 2023 Goals: Hmm... thinking!!!
+- 🥅 2025 Goals: Hmm... thinking!!!
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="visual studio code" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
